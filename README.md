@@ -3,6 +3,8 @@
 <img align="right" alt ="coading" width = "400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivampatel010902&label=Profile%20views&color=0e75b6&style=flat" alt="shivampatel010902" /> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on **MERN Application and OTTO Robot**
 
 - 🌱 I’m currently learning **Data Structure And Algorithm**
@@ -28,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivampatel010902&show_icons=true&locale=en" alt="shivampatel010902" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivampatel010902&" alt="shivampatel010902" /></p>
-
