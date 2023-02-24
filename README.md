@@ -1,4 +1,4 @@
-<img width="100%" height="400" src="https://i.ibb.co/wrvtDpD/Copy-of-Blank-and-White-Thank-You-Poster-Landscape.png" border="2px solid black">
+
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
 <h3 align="center">Aspiring MERN Developer From India</h3>
 <img align="right" alt ="coading" width = "400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
