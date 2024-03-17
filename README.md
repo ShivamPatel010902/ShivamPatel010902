@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structure And Algorithm**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/shivampatelmrss](www.linkedin.com/in/shivampatelmrss)
+- 👨‍💻 All of my projects are available at [https://mrssdeveloper.netlify.app/)
 
 - 💬 Ask me about **React, Javascript**
 
