@@ -1,4 +1,4 @@
-<img align="right" alt ="coading" src="https://www.canva.com/design/DAF_vSnPCLU/KwEq3yx4qas6kLTjxbpRDA/edit?utm_content=DAF_vSnPCLU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
 <h3 align="center">Aspiring MERN Developer From India</h3>
 <img align="right" alt ="coading" width = "400" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
